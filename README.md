@@ -1,8 +1,11 @@
-# random_data
+# Random_data
 
 A new Flutter project.
 
-## Getting Started
+## Screenshot
+
+<img src = "https://user-images.githubusercontent.com/121785230/236384811-4a885f11-1278-4228-bf88-0012d489492a.png" height = "500px"/> |
+<img src = "https://user-images.githubusercontent.com/121785230/236385218-f0f1dc7d-8dce-4e5c-8db3-ac1d5ad2586c.png" height = "500px"/>
 
 This project is a starting point for a Flutter application.
 
